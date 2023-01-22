@@ -1,6 +1,6 @@
-# Template React
+# Gradient Background
 
-Template React is a template for React projects.
+Gradient Background.
 
 ## Deployment
 
@@ -20,6 +20,7 @@ And to run localhost
 Clone this repository : 
 
 ```bash
-git clone https://github.com/AugustinBriolon/templateReact.git
+git clone https://github.com/AugustinBriolon/
 ```
 
+# gradientBackground
