@@ -1,0 +1,15 @@
+.cards {
+  display: flex;
+  flex-direction: column;
+
+  .bgGardient {
+    width: 200px;
+    height: 100px;
+  }
+
+  .describ {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
